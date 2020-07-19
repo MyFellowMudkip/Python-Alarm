@@ -1,3 +1,12 @@
+# Project: Alarm Clock
+# Made by: Samuel Clouston
+# Built from: 4/7/2020 - 4/7/2020
+#
+# Basic Paragraph
+# This project is a python project I made in year 13. It is pretty much an alarm clock minus the sound. I started
+# building this on the 4/7/2020 and finished on the 4/7/2020. It took 70+ hours to complete but it is done and im
+# fairly happy of what it is.
+
 # import modules that will be used, these are datetime, the base tkinter set and messagebox, csv and partial (from
 # functools). This is so I don't get errors when I used them.
 import datetime
